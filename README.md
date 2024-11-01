@@ -25,3 +25,5 @@ You can install NumPy using pip:
 
 ```bash
 pip install numpy
+IG : propgrammer.pedia
+Youtube : Programmer Pedia
