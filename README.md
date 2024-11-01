@@ -1,6 +1,9 @@
 # Artificial Neuron Implementation
 
 This project implements a simple artificial neuron using Python and NumPy. The neuron uses the sigmoid activation function to compute its output based on given inputs, weights, and a bias.
+Follow me
+IG : propgrammer.pedia
+Youtube : Programmer Pedia
 
 ## Table of Contents
 
@@ -25,5 +28,4 @@ You can install NumPy using pip:
 
 ```bash
 pip install numpy
-IG : propgrammer.pedia
-Youtube : Programmer Pedia
+
